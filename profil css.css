@@ -25,13 +25,24 @@ body section p {
 	float: left;
 	border-color: #E7D06F;
 	border-style: double;
-	margin-left: 20px;
+	margin-left: 5%;
+	margin-top: 15px;
 }
 body img {
 	float: right;
 	border-color: #E7D06F;
 	border-style: double;
-	height: 500px;
-	width: 300px; 
-	margin-right: 20px;
+	height: 488px;
+	width: 290px;
+	margin-right: 5%;
+	margin-top: 15px;
+}
+
+.selvportraet {
+	width: 150px;
+	height: 150px;
+	border: hidden;
+	margin-top: 7%;
+	margin-right: 5%;
+	text-align: center;
 }
