@@ -1,0 +1,37 @@
+@import url("webfonts/declara/stylesheet.css");
+body {
+	font-family: pt-sans-narrow;
+	font-style: normal;
+	font-weight: 400;
+}
+body aside {
+	font-size: x-large;
+	color: #5A5B5C;
+	text-align: center;
+}
+body section h2 {
+	color: #5A5B5C;
+	font-size: medium;
+}
+body section p {
+	width: 300px;
+	height: 470px;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	opacity: 1;
+	text-align: left;
+	float: left;
+	border-color: #E7D06F;
+	border-style: double;
+	margin-left: 20px;
+}
+body img {
+	float: right;
+	border-color: #E7D06F;
+	border-style: double;
+	height: 500px;
+	width: 300px; 
+	margin-right: 20px;
+}
