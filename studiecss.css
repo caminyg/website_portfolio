@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+body div {
+	width: 80%;
+	margin: auto;
+	margin-top: 5%; 
+	text-align: center;
+	font-family: declara;
+	font-size: x-large;
+	line-height: 0%;
+}

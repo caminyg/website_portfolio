@@ -1,10 +1,14 @@
 @charset "UTF-8";
+
 header {
 	text-align: center;
 }
 
 body figure {
 	text-align: center;
+}
+body figure a {
+	text-decoration: none;
 }
 ikoner {
 	text-align: center;
