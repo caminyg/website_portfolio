@@ -23,4 +23,6 @@ body {
 p {
 	font-family: pt "pt-sans-narrow";
 	text-align: center;
+	width: 700px;
+	margin: auto;
 }
