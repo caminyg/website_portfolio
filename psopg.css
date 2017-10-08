@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+h1 {
+	font-family: declara;
+	text-align: center;
+	width: 80%;
+	margin: auto;
+	margin-top: 2%; 
+	line-height: 100%;
+	color: #4B4C4D;
+}
+
+body img {
+	margin: auto;
+	width: 700px;
+	height: 366px;
+	padding: 1%;
+	border: double #4B4C4D;
+	display: block;
+}
+body {
+	background-image: url(images/backgroundimg.png);
+}
+
+p {
+	font-family: pt "pt-sans-narrow";
+	text-align: center;
+}
