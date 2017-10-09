@@ -99,10 +99,9 @@ body div {
 
 .info h3 {
 	font-family: "pt-sans-narrow";
-	font-weight: 400;
 	color: #E7D06F;
-	font-size: 38px;
+	font-size: 40px;
 	margin: 0 30px;
 	padding: 100px 0 0 0;
-	line-height: 1.5;
+	font-weight: 400;
 }

@@ -63,7 +63,7 @@ body div {
 
 .grid-img1 {
 	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-	url(images/studie_psopg.jpg);
+	url(images/psopgthumbnail.jpg);
 }
 
 .grid-img2 {
@@ -99,10 +99,9 @@ body div {
 
 .info h3 {
 	font-family: "pt-sans-narrow";
-	font-weight: 400;
 	color: #E7D06F;
-	font-size: 38px;
-	margin: 0 30px;
+	font-size: 30px;
+	margin: 0 40px;
 	padding: 100px 0 0 0;
-	line-height: 1.5;
+	font-weight: 400;
 }
