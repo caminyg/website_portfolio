@@ -55,13 +55,99 @@ body section h2 {
 div {
 	vertical-align: top;
 }
+
+.telefon {
+	height: 70px;
+	width: 70px;
+	text-decoration: none;
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.telefon:hover {
+	transform: scale(1.05);
+}
+
+.mail {
+	text-decoration: none;
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.mail:hover {
+	transform: scale(1.05);
+}
+
 .alinkedin {
 	text-decoration: none;
 }
+
+.linkedin {
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.linkedin:hover {
+	transform: scale(1.05);
+}
+
+.facebook {
+	text-decoration: none;
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.facebook:hover {
+	transform: scale(1.05);
+}
+
+
 .ainstagram {
 	text-decoration: none;
 }
 
-.mail {
-	text-decoration: none; 
+.instagram {
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.instagram:hover {
+	transform: scale(1.05);
+}
+
+.youtube {
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.youtube:hover {
+	transform: scale(1.05);
+}
+.telefonnummer {
+}
+.figur {
 }

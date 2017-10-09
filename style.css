@@ -14,3 +14,78 @@ body figure a {
 ikoner {
 	text-align: center;
 }
+
+.profil {
+	width: 200px;
+	height: 200px;
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.profil:hover {
+	transform: scale(1.05);
+}
+
+.studie {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.studie:hover {
+	transform: scale(1.05);
+}
+
+.websites {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.websites:hover {
+	transform: scale(1.05);
+}
+.diverse {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.diverse:hover {
+	transform: scale(1.05);
+}
+
+.apps {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	cursor: pointer;
+	border-radius: 10px;
+	-webkit-transition: 0.3s ease-in-out, -webkit-transform 0.3s ease-in-out;
+	-moz-transition: 0.3s ease-in-out, -moz-transform 0.3s ease-in-out;
+	transition: 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.apps:hover {
+	transform: scale(1.05);
+}.profil {
+}
